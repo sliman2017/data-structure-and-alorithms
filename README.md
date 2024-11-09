@@ -55,23 +55,6 @@ A collection of classic sorting and searching algorithms implemented in JAVA pro
 | Binary Search  | O(1)       | O(log n)     | O(log n)   | O(1)            |
 | Linear Search  | O(1)       | O(n)         | O(n)       | O(1)            |
 
-## 🛠️ Usage
-
-Each algorithm is implemented in its own file. To use any algorithm:
-
-1. Import the desired algorithm file
-2. Create an array/list of elements
-3. Call the corresponding function with your input
-
-Example:
-```python
-from sorting.bubble_sort import bubble_sort
-
-arr = [64, 34, 25, 12, 22, 11, 90]
-sorted_arr = bubble_sort(arr)
-print(sorted_arr)
-```
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
